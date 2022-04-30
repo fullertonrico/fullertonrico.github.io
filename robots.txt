@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://fullertonrico.github.io/sitemap.xml
