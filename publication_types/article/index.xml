@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aging | </title>
-    <link>https://fullertonrico.github.io/tags/aging/</link>
-      <atom:link href="https://fullertonrico.github.io/tags/aging/index.xml" rel="self" type="application/rss+xml" />
-    <description>aging</description>
+    <title>article | </title>
+    <link>https://fullertonrico.github.io/publication_types/article/</link>
+      <atom:link href="https://fullertonrico.github.io/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>article</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fullertonrico.github.io/media/icon_hu31a02fe58960b2182481055d1a955312_128444_512x512_fill_lanczos_center_3.png</url>
-      <title>aging</title>
-      <link>https://fullertonrico.github.io/tags/aging/</link>
+      <title>article</title>
+      <link>https://fullertonrico.github.io/publication_types/article/</link>
     </image>
     
     <item>
@@ -20,22 +20,6 @@
       <description>&lt;p&gt;In the past four decades, the United States has created a population of long-term unauthorized immigrants. As this population ages, issues of death and dying are increasingly salient. Though we know much about how families maintain close bonds despite geographic distance, death and dying remain undertheorized in transnational family scholarship. Yet the death of a family member can significantly impact family structure and functions. Based on ethnographic and interview data collected from 2017–2023 with unauthorized Mexican immigrants and their families, this study examines how unauthorized immigrants anticipate and mourn the death of family members in their community of origin and how their undocumented status creates challenges for themselves and their families after a transnational death.&lt;/p&gt;
 &lt;p&gt;I find that the specter of transnational death shapes the emotional wellbeing of older unauthorized immigrants years before they experience it. Undocumented status creates and compounds transnational grief, leading to additional challenges. Individuals use a variety of strategies to grieve, including mourning by proxy, paying for funeral expenses, and participating virtually. This research advances immigration scholarship by uncovering underappreciated social and emotional penalties imposed by current immigration laws and highlighting the value of mourning as a collective ritual –– the absence of which has lasting costs.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Aging without a Safety Net: Challenges Faced by Unauthorized Immigrants at the End of Their Working Years</title>
-      <link>https://fullertonrico.github.io/research/aging-without-a-safety-net-challenges-faced-by-unauthorized-immigrants-at-the-end-of-their-working-years/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fullertonrico.github.io/research/aging-without-a-safety-net-challenges-faced-by-unauthorized-immigrants-at-the-end-of-their-working-years/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Returned to Mexico: Older Return Migration and Immigrant Exclusion</title>
-      <link>https://fullertonrico.github.io/research/returned-to-mexico-older-return-migration-and-immigrant-exclusion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fullertonrico.github.io/research/returned-to-mexico-older-return-migration-and-immigrant-exclusion/</guid>
-      <description></description>
     </item>
     
   </channel>
