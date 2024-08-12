@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Public Health | </title>
+    <title>public health | </title>
     <link>https://fullertonrico.github.io/tags/public-health/</link>
       <atom:link href="https://fullertonrico.github.io/tags/public-health/index.xml" rel="self" type="application/rss+xml" />
-    <description>Public Health</description>
+    <description>public health</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://fullertonrico.github.io/media/icon_hu31a02fe58960b2182481055d1a955312_128444_512x512_fill_lanczos_center_3.png</url>
-      <title>Public Health</title>
+      <title>public health</title>
       <link>https://fullertonrico.github.io/tags/public-health/</link>
     </image>
+    
+    <item>
+      <title>Opinion: To stop bird flu, Michigan must protect farmworkers</title>
+      <link>https://fullertonrico.github.io/media/bridgemi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fullertonrico.github.io/media/bridgemi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>WSAW: Breaking language barriers for COVID-19 vaccine info</title>
